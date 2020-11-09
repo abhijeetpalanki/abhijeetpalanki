@@ -37,8 +37,6 @@
 
 - [Microsoft Certified Developer - Programming in C#](https://docs.microsoft.com/en-us/learn/certifications/exams/70-483)
 
-<h3> 💡 &nbsp;GitHub Profile </h3> 
-
 <br />
 
 <a href="https://github.com/abhijeetpalanki">
