@@ -33,15 +33,13 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
 
-<br/>
-
 <h3> 🔑 &nbsp;My Certifications :arrow_down: </h3> 
 
 - [Microsoft Certified Developer - Programming in C#](https://docs.microsoft.com/en-us/learn/certifications/exams/70-483)
 
-<br />
-
 <h3> 💡 &nbsp;GitHub Profile </h3> 
+
+<br />
 
 <a href="https://github.com/abhijeetpalanki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijeetpalanki&theme=buefy&show_icons=true" />
