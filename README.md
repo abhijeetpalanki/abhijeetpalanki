@@ -11,7 +11,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
   ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
