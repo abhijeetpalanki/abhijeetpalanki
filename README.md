@@ -35,6 +35,12 @@
 
 <br/>
 
+## My Certifications :arrow_down:
+
+- [Microsoft Certified Developer](https://1.bp.blogspot.com/-eL7leiJwY94/W2_HR2lDC0I/AAAAAAAAA5g/cjjOziNQUWIEVqzQNZ-pXzQYA3LkkAmowCLcBGAs/s1600/MCP%2B70-483%2BLogo.PNG)
+
+<br />
+
 <a href="https://github.com/abhijeetpalanki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijeetpalanki&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpalanki&theme=buefy&layout=compact" />
