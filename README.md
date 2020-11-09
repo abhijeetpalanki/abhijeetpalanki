@@ -1,5 +1,3 @@
-![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
 <h2> Hey there! I'm Abhijeet.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
