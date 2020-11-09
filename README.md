@@ -45,9 +45,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://abhijeetpalanki.github.io/me/"><img alt="Website" src="https://img.shields.io/badge/Website-https://abhijeetpalanki.github.io/me-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/abhijeetpalanki/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Palanki%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/abhijeet.palanki/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-abhijeet.palanki-blue?style=flat-square&logo=instagram"></a>
+<a href="https://abhijeetpalanki.github.io/me/"><img alt="Website" src="https://img.shields.io/badge/Website-https://abhijeetpalanki.github.io/me-blue?style=flat-square&logo=google-chrome"></a> <br />
+<a href="https://www.linkedin.com/in/abhijeetpalanki/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Palanki%20-blue?style=flat-square&logo=linkedin"></a> <br />
+<a href="https://www.instagram.com/abhijeet.palanki/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-abhijeet.palanki-blue?style=flat-square&logo=instagram"></a> <br />
 <a href="mailto:abhijeet.palanki9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhijeet.palanki9@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
