@@ -9,7 +9,7 @@ I'm a Full Stack Software Developer with experience in various technologies such
 *   🌍  I'm based in Bentonville, AR
 *   🖥️  See my portfolio at [https://abhijeetpalanki.netlify.app/](http://https://abhijeetpalanki.netlify.app/)
 *   ✉️  You can contact me at [ajpalanki@gmail.com](mailto:ajpalanki@gmail.com)
-*   🧠  I'm learning Unity### Skills 
+*   🧠  I'm learning Unity, Three.js and other JS libraries. 
                     
 ### Skills
 
